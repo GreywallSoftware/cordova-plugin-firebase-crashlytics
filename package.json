@@ -1,6 +1,6 @@
 {
   "name": "cordova-veoci-firebase-crashlytics",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "cordova": {
     "id": "cordova-veoci-firebase-crashlytics",
     "platforms": [
