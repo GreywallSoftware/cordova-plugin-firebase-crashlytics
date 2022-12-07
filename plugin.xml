@@ -73,8 +73,8 @@
         <source url="https://github.com/CocoaPods/Specs.git"/>
       </config>
       <pods use-frameworks="true">
-        <pod name="FirebaseCrashlytics" spec="4.6.2" />
-        <pod name="FirebaseAnalytics" spec="6.9.0" />
+        <pod name="FirebaseCrashlytics" spec="~> 8.1.0" />
+        <pod name="FirebaseAnalytics" spec="~> 8.1.0" />
       </pods>
     </podspec>
 
