@@ -70,9 +70,9 @@
 
     <podspec>
       <pods use-frameworks="true">
-        <pod name="FirebaseCore" spec="8.1.0" />
-        <pod name="FirebaseCrashlytics" spec="8.1.0" />
-        <pod name="FirebaseAnalytics" spec="8.1.0" />
+        <pod name="FirebaseCore" spec="11.8.0" />
+        <pod name="FirebaseCrashlytics" spec="11.8.0" />
+        <pod name="FirebaseAnalytics" spec="11.8.0" />
       </pods>
     </podspec>
 
